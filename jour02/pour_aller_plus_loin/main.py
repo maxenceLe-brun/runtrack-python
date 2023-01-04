@@ -1,4 +1,5 @@
 #... pour aller plus loin. Oh my god, i'm speedrunning a migraine
+from math import*
 def test(a,b,c):
     if c > a+b or b > a+c or a > b+c:
         print("triangle impossible")
