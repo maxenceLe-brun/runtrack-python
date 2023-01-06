@@ -9,4 +9,4 @@ def job06(liste):
         liste[-1] = liste[0]
         liste[0] = temp
         print(liste)
-job06()
+job06([1,2,3])
