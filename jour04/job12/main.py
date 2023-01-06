@@ -17,4 +17,4 @@ while L != []:
         else:
             l += [b]
     L = l
-print(result)
+#print(result)
